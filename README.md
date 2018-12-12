@@ -1,5 +1,3 @@
-## About This Website 
+## light-mvc
 
-Link: thinkopen.dev (only localhost)
-
-Little MVC PHP Framework: light and essential.
+A little MVC PHP Framework: light and essential.
